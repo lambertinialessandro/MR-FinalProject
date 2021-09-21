@@ -13,10 +13,12 @@ Final project for the course of Medical Robotics 2020/2021.
 
 ## 📝 Assignment
 
-1.	
-2.  Fill the Gaps
-3.  Filter the data
-4.  
+1.	Convert the data from file \*.c3d to \*.trc and \*.mot
+2.	Load data from file \*.trc and \*.mot
+3.  Fill the Gaps
+4.  Filter the data
+5.  Scaling the Muscoloskeletal Model
+6.  
 
 ## 💾 Dataset
 
