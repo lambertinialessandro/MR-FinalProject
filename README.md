@@ -13,12 +13,17 @@ Final project for the course of Medical Robotics 2020/2021.
 
 ## 📝 Assignment
 
-1.	Convert the data from file \*.c3d to \*.trc and \*.mot
-2.	Load data from file \*.trc and \*.mot
-3.  Fill the Gaps
-4.  Filter the data
-5.  Scaling the Muscoloskeletal Model
-6.  
+1.	Convert the data from file \*.c3d to \*.trc and \*.mot;
+2.	Load data from file \*.trc and \*.mot;
+3.  Fill the Gaps;
+4.  Filter the data;
+5.  Scaling the Muscoloskeletal Model;
+6.  Create the kinematic model;
+7.  Create the dynamic model;
+8.  Plot the \*.trc data and the model;
+9.  Analize Force, Point of contact and Moment in the \*.mot files;
+10.  Analize the gait cycle;
+11.  Analize the stability of the subject.
 
 ## 💾 Dataset
 
