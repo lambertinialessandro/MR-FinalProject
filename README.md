@@ -32,9 +32,9 @@ Final project for the course of Medical Robotics 2020/2021.
 
 ## 📜 Report
 
--   report [Link 🔗](./.pdf)
+-   report [Link 🔗](./Report.pdf)
 
--   presentation [Link 🔗](./.pdf)
+-   presentation [Link 🔗](./Presentation.pdf)
 
     In thise file you can read more about the code and the result of the project.
 
