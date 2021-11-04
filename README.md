@@ -54,6 +54,32 @@ for any doubt or clarification contact me on:
 ## 🎞️ Snapshots
 
 <p align="center">
-    <img src="./READMEimages/img1.png" style="width: 750px;"></img>
+    <img src="./READMEimages/gapfilling.png" style="width: 800px; height: 300px"></img>
     <br>
+    Example of gap filling
 </p>
+
+<p align="center">
+    <img src="./READMEimages/filtering.png" style="width: 750px; height: 350px"></img>
+    <br>
+    Example of filtering
+</p>
+
+<p align="center">
+    <img src="./READMEimages/videoSiline.gif" style="width: 500px; height: 300px"></img>
+    <br>
+    Example Sirine's marche
+</p>
+
+<p align="center">
+    <img src="./READMEimages/videoLina.gif" style="width: 500px; height: 300px"></img>
+    <br>
+    Example Lina's marche
+</p>
+
+<p align="center">
+    <img src="./READMEimages/kinematicmodel.png" style="width: 650px; height: 400px"></img>
+    <br>
+    Complete and Seplified Kinematic model
+</p>
+
