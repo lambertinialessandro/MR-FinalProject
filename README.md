@@ -42,7 +42,7 @@ Final project for the course of Medical Robotics 2020/2021.
 
 ## 💯 Final score:
 
-Score: `--/30`
+Score: `30L/30`
 
 ## 🙋 Info
 
