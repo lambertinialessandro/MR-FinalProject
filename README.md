@@ -84,3 +84,27 @@ for any doubt or clarification contact me on:
     Complete and Seplified Kinematic model
 </p>
 
+<p align="center">
+    <img src="./READMEimages/sirine_toe_traj.png" style="width: 800px; height: 200px"></img>
+    <br>
+    Example Sirine's DS and SS intervals using toe marker (RTT2, LTT2)
+</p>
+
+<p align="center">
+    <img src="./READMEimages/lina_toe_traj.png" style="width: 800px; height: 200px"></img>
+    <br>
+    Example Lina's DS and SS intervals using toe marker (RTT2, LTT2)
+</p>
+
+<p align="center">
+    <img src="./READMEimages/sirine_distance_mma_com.png" style="width: 800px; height: 200px"></img>
+    <br>
+    Example of sirine's distance between minimum moment axis and center of mass, relative to the gait cycle
+</p>
+
+<p align="center">
+    <img src="./READMEimages/lina_distance_mma_com.png" style="width: 800px; height: 200px"></img>
+    <br>
+    Example Lina's distance between minimum moment axis and center of mass, relative to the gait cycle
+</p>
+
